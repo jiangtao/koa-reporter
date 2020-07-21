@@ -23,7 +23,7 @@
     "babel-cli": "^6.24.1",
     "babel-core": "^6.24.1",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
-    "codecov": "^2.1.0",
+    "codecov": "^3.7.1",
     "koa": "^2.2.0",
     "koa-mount": "^3.0.0",
     "nyc": "^10.2.0",
